@@ -1,0 +1,17 @@
+.card {
+  padding: 20px;
+  margin-top: 40px;
+  margin-left: 30px;
+  width: 380px !important;
+  height: 240px !important;
+  background-color: #62c5ca !important;
+  box-shadow: 7px 7px 14px #868181a5;
+}
+#name{
+  font-weight: bolder;
+  font-size: large;
+}
+.nav-part {
+  background-color: #1979d3d3;
+  padding: 30px;
+}
